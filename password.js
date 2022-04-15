@@ -4,5 +4,6 @@ const reader = readline.createInterface({
     output: process.stdout,
 });
 
+reader.question("Input Password", function(input){
 
-
+});

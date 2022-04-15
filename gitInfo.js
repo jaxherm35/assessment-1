@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let git = versionControlSystem
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = remoteGitRepository
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,6 +26,7 @@
 */
 
 //CODE HERE
+ let = gitInitDefinition
 
 //////////////////PROBLEM 4////////////////////
 /*

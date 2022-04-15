@@ -4,7 +4,7 @@ const reader = readline.createInterface({
     output: process.stdout,
 });
 
-reader.question("Input Password", function(password){
+reader.question("Input Password: ", function(password){
     
     if(password.length >= 10)
     console.log('password accepted');

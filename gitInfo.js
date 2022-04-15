@@ -26,7 +26,7 @@ let gitHubDefinition = remoteGitRepository
 */
 
 //CODE HERE
- let = gitInitDefinition
+ let gitInitDefinition = inititializingLocalGitRepository
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -35,7 +35,7 @@ let gitHubDefinition = remoteGitRepository
 */
 
 //CODE HERE
-
+let gitCloneDefinition = copyRepositoryFromGitHubAndLocalize
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -43,6 +43,7 @@ let gitHubDefinition = remoteGitRepository
 */
 
 //CODE HERE
+let gitStatusDefinition = tellsAboutRepository
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +55,8 @@ let gitHubDefinition = remoteGitRepository
 */
 
 //CODE HERE
+let gitAddDefinition = addsFilesToBeTracked
+let gitAddCode = ('git add .')
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,6 +68,8 @@ let gitHubDefinition = remoteGitRepository
 */
 
 //CODE HERE
+let gitCommitDefinition = createsSnapshotOfTrackedFiles
+let gitCommitCode = ('git commit -m "initial commit"')
 
 
 //////////////////PROBLEM 8////////////////////
@@ -74,3 +79,4 @@ let gitHubDefinition = remoteGitRepository
 */
 
 //CODE HERE
+let gitPushDefinition = gitPushesRepoToGitHubURL

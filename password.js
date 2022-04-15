@@ -5,5 +5,10 @@ const reader = readline.createInterface({
 });
 
 reader.question("Input Password", function(input){
+    tokens = input.split('')
 
+
+
+
+    reader.close
 });
